@@ -1,6 +1,6 @@
 python lstm.py
 
-
+```
 Using Theano backend.
 /home/xsede/users/xs-nksg/.local/lib/python2.7/site-packages/hyperas/optim.py
 /home/xsede/users/xs-nksg/.local/lib/python2.7/site-packages/hyperas/optim.py
@@ -164,3 +164,4 @@ Epoch 1/1
 22976/23000 [============================>.] - ETA: 0s - loss: 0.4234 - acc: 0.8039Epoch 00000: val_loss improved from inf to 0.36021, saving mo23000/23000 [==============================] - 374s - loss: 0.4233 - acc: 0.8040 - val_loss: 0.3602 - val_acc: 0.8470
 Test accuracy: 0.84752
 {'Dropout': 0.4844455237320119, 'batch_size': 1}
+```
